@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some website projects.
+- 🔭 I’m currently working on so many diffrent projets, so the list wold be too long. But at the moment im working mostly on my webstites.
 - 🌱 I’m currently learning the basics of a bunch of languages. For example python with small procets. Wit the raspberry pi im coding a image recognition in C. A Arduino-Robot in C++. A Discordbot in Javascript. And sometimes other small projets to teach myself how to code.
 - 📫 How to reach me: dom.meurer@gmx.de
