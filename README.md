@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DMeurer/DMeurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Finished projects](https://img.shields.io/badge/Finished-Projects-0-brightgreen)
 
-- 🔭 Im working on so many different projects that the list would be too long to list. But at the moment im working mostly on my webstites.
-- 🌱 I’m currently learning the basics of a bunch of languages. For example python with small procets. Wit the raspberry pi im coding a image recognition in C. A Arduino-Robot in C++. A Discordbot in Javascript. And sometimes other small projets to teach myself how to code.
-- 💻 https://dmeurer.github.io/Homepage/
+- I’m currently learning the basics of a bunch of languages. A Arduino-Robot for the Robocup in C++. A [Discordbot](https://github.com/DMeurer/Discord-Bot) in Javascript. And sometimes other [small projets](https://github.com/DMeurer/small-projects) to teach myself how to code.
+- My next big project is Arduino Robot for the Robocup Maze, that will use a image recognition programm in C running on a Raspberry Pi 4.
+- Chet out more stuff on [my website](https://dmeurer.github.io/Homepage/)
