@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Finished projects](https://img.shields.io/badge/Finished-Projects-0-brightgreen)
+![Finished projects](https://img.shields.io/badge/Finished-0-brightgreen)
 
 - I’m currently learning the basics of a bunch of languages. A Arduino-Robot for the Robocup in C++. A [Discordbot](https://github.com/DMeurer/Discord-Bot) in Javascript. And sometimes other [small projets](https://github.com/DMeurer/small-projects) to teach myself how to code.
 - My next big project is Arduino Robot for the Robocup Maze, that will use a image recognition programm in C running on a Raspberry Pi 4.
