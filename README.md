@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently learning the basics of a bunch of languages. A Arduino-Robot for the Robocup in C++. A [Discord-bot](https://github.com/DMeurer/small-projects/tree/main/NodeJS/discord-bot) in Javascript. And sometimes other [small projets](https://github.com/DMeurer/small-projects) to teach myself how to code.
-- My next big project is Arduino Robot for the Robocup Maze, that will use a image recognition programm in C running on a Raspberry Pi 4.
-- Check out more stuff on [my website](https://dmeurer.github.io/Homepage/)
+- There are are much more of my procest on [my website](https://dmeurer.github.io/Homepage/). 
