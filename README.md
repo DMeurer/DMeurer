@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently learning the basics of a bunch of languages. A Arduino-Robot for the Robocup in C++. A [Discord-bot](https://github.com/DMeurer/small-projects/tree/main/NodeJS/discord-bot) in Javascript. And sometimes other [small projets](https://github.com/DMeurer/small-projects) to teach myself how to code.
-- There are are much more of my procest on [my website](https://dmeurer.github.io/Homepage/). 
+- There are are much more of my projects on [my website](https://dmeurer.github.io/Homepage/). 
+- There is another Website i developed at [fff-trossingen.github.io](fff-trossingen.github.io)
