@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 Hi, 
 
-Im Dominik Meurer, a Comuter Science student
+Im Dominik Meurer, a Comuter Science student and aprentice. 
 
-Here you can find some of my personal projects and school tasks
+Here you can find some of my personal projects and school tasks.
+Most of this is marked private, but some of the projects might get the honor to be public.
+
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fdominik-meurer-52230a258)
+
+
