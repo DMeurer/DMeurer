@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Hi, 
 
-Im Dominik Meurer, a Comuter Science student and aprentice. 
+Im Dominik Meurer, a Comuter Science student. 
 
 Here you can find some of my personal projects and school tasks.
 Most of this is marked private, but some of the projects might get the honor to be public.
